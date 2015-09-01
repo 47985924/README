@@ -8,4 +8,4 @@ Which required and optional stories have you completed?
 
 I have complated the required stoires as the tutorial. But haven't done the optional stories. 
 
-![Video Walkthrough](tips gif.gif)
+![Video Walkthrough](tipsgif.gif)
